@@ -1,9 +1,8 @@
 Question 1 please click the link to see the output  https://www.greatfrontend.com/questions/user-interface/contact-form/v/f96c1dc6-0835-4b38-ae82-3ca40b3ed57a
 
 In this HTML code:
-
-<p>The "form" tag is used to encapsulate the form elements.
+The "form" tag is used to encapsulate the form elements.
 Each form element (Name, Email, Message) is wrapped in a <label> to provide a label for the corresponding input.
 The "input" elements are used for the Name and Email fields, and a <textarea> element is used for the Message field.
 The required attribute is added to each input and textarea to ensure that the user must fill in these fields before submitting the form.
-The <button> element is used as the submit button, and its type is set to "submit" to trigger form submission when clicked.<p>
+The <button> element is used as the submit button, and its type is set to "submit" to trigger form submission when clicked.
