@@ -1,0 +1,20 @@
+Question 2  please click the link to see the output:    https://www.greatfrontend.com/questions/user-interface/tabs/v/963e653b-fb69-4d55-afb2-c5d5df01fbec
+
+
+
+Here is the brief description of the project
+
+State Management:
+The component uses the useState hook to manage state. activeTab state represents the index of the currently active tab.
+Click Handler:
+The handleTabClick function is used as an event handler for tab clicks. It sets the activeTab state to the index of the clicked tab.
+
+Tab and Content Data:
+Two arrays (tabs and contents) store the labels for each tab and the corresponding content descriptions.
+
+Rendering:
+The component renders a set of buttons based on the tabs array.
+The style of each button is dynamically adjusted based on whether it is the active tab or not. The text color is set to blue for the active tab, and the background color is set to green for the active tab.
+
+Content Rendering:
+The content associated with the active tab is displayed below the buttons. It uses conditional rendering to display the content only when an active tab is selected.
